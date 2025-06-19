@@ -17,7 +17,9 @@
 ## unzip images.zip -d images
 ---
 # 国内下载问题可以用网盘代替
-## 
+## 通过网盘分享的文件：Llava-next必要文件
+链接: https://pan.baidu.com/s/1WxmTcl-NVXqNFSDUG2XeoA?pwd=1234 提取码: 1234 
+
 ---
 # 文件说明
 ## python test.py  # 测试原模型
